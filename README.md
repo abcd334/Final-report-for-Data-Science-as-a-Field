@@ -14,8 +14,10 @@
 ### 分析結果
 1. 時間趨勢分析
     - 每月「MURDER_FLAG」案例比例通常在16%至23%之間。
-![image](../image/MerderRate.jpg)
     - 自2018年起，該比例顯著增加，多個月份超過75%分位數的23%閾值，顯示暴力犯罪有上升趨勢。
+    - 
+![image](../image/MerderRate.jpg)
+
 ![image](../image/RateOver75.jpg)
     
 2. 高比例月份
@@ -35,17 +37,21 @@
 3. 地圖可視化
     - 使用 Leaflet 生成紐約槍擊事件地圖，展示「MURDER_FLAG」案例隨時間的地理變化。
     - 地圖顯示了案件的集中分布及其在不同地區的密度變化。
+    - 
     ![image](../image/Map.jpg)
 
 4. 地理分布
     - 洋基體育館區域：
       - 案例密度高且穩定，可能與當地活動相關。
       - 線性回歸顯示暴力犯罪的高水平持續存在，需強化執法。
+      
     ![image](../image/Yankee.jpg)
     ![image](../image/YankeeLine.jpg)
+
     - 布魯克林地區：
       - 案例密度逐漸下降，反映安全措施的有效性。
       - 回歸分析顯示犯罪率持續改善，需延續成功策略。
+      
     ![image](../image/Brooklyn.jpg)
     ![image](../image/BrooklynLine.jpg)
 
