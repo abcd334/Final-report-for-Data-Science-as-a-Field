@@ -1,6 +1,8 @@
 # Research Analysis Report: NYPD Shooting Incident Data Analysis
 
-## This study analyzes shooting incident data provided by the New York City Police Department (NYPD), focusing on violent crime trends and geographic distribution associated with "MURDER_FLAG" incidents. It also explores potential crime drivers. The analysis covers the period from 2006 to 2023, utilizing data cleaning, statistical computation, and visualization to provide insights for crime prevention strategies.
+## Abstract
+
+This study analyzes shooting incident data provided by the New York City Police Department (NYPD), focusing on violent crime trends and geographic distribution associated with "MURDER_FLAG" incidents. It also explores potential crime drivers. The analysis covers the period from 2006 to 2023, utilizing data cleaning, statistical computation, and visualization to provide insights for crime prevention strategies.
 
 ### Analysis Methods
 1. Data Cleaning：
